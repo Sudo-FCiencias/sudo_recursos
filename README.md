@@ -60,7 +60,7 @@ Esta colección reúne archivos, enlaces y herramientas esenciales para aprender
 ### Curso de Programación Estructural. ----
 [Parte 1. Introduccion.](https://terabox.com/s/1XHT0OZX0SLuOYGOp09tcxg?authuser=3)
 [Parte 2. Conceptos básicos.](https://terabox.com/s/1843BYkPmbpm4_9ZW9yhKIA?authuser=3)
-[Parte 3. Control de flujo.](https://terabox.com/s/19j2MEP9Z-xxwQJq_59K6cg?authuser=3
+[Parte 3. Control de flujo.](https://terabox.com/s/19j2MEP9Z-xxwQJq_59K6cg?authuser=3)
 [Parte 4. Funciones.](https://terabox.com/s/1BYVr0SEtRTd9NGw6fxbbFg?authuser=3)
 [Parte 5. Conceptos avanzados.](https://terabox.com/s/11j2pauiUwGubdi5NFKMvGA?authuser=3)
 ### Curso completo de Power BI ----
@@ -156,7 +156,7 @@ Esta colección reúne archivos, enlaces y herramientas esenciales para aprender
 [Parte 11-Boceto digital para el proyecto del curso.](https://terabox.com/s/1CEh0FSmaBE9j_9LX3kr8tQ?authuser=3)
 [Parte 12-Boceto con fotografía Cómo recortar una imagen para tu boceto.](https://terabox.com/s/1W6PMA67sJJUs8kO4msj3tA?authuser=3)
 [Parte 13-Cómo crear un pincel personalizado a partir de tu recorte.](https://terabox.com/s/1z76X6pBkqzJ-Ftx1NT16YA?authuser=3)
-[Parte 14-Tipos de línea.](https://terabox.com/s/1d8AAzEyvf6HNELpvHbXtKw?authuser=3
+[Parte 14-Tipos de línea.](https://terabox.com/s/1d8AAzEyvf6HNELpvHbXtKw?authuser=3)
 [Parte 15-Seleccionando el tipo de línea para el proyecto del curso.](https://terabox.com/s/1xx5IKnEupgvCu2jHe2CB2g?authuser=3)
 [Parte 16-Creación de paletas de color.](https://terabox.com/s/1fFiiqcuCMnMf5abQYwrLBA?authuser=3)
 [Parte 17-Pruebas de color para el proyecto del curso.](https://terabox.com/s/1SbyagfJafQ6w0kgDsFMURQ?authuser=3)
@@ -270,7 +270,7 @@ Esta colección reúne archivos, enlaces y herramientas esenciales para aprender
 [Parte 09_Construyendo una API REST con Express (platziverse-api).](https://terabox.com/s/15dIpEU5rJ0ucyzRBjz5qog?authuser=3)
 [Parte 10_Asegurando nuestra API REST con JWT.](https://terabox.com/s/1-2NKpradg-fK264etDJP0w?authuser=3)
 [Parte 11_Creando un Dashboard Web en tiempo real con WebSockets (platziverse-web).](https://terabox.com/s/17Cyo5AsvzxshsaV2hjDmyQ?authuser=3)
-[Parte 12_Creando un Dashboard para la terminal en tiempo real con Blessed (platziverse-cl).](https://terabox.com/s/1Rc97mgmDHc_FnKlOWJa8gQ?authuser=3
+[Parte 12_Creando un Dashboard para la terminal en tiempo real con Blessed (platziverse-cl).](https://terabox.com/s/1Rc97mgmDHc_FnKlOWJa8gQ?authuser=3)
 [Parte 13_Depurando Aplicaciones Node.js](https://terabox.com/s/1yKhzrP2dn5-pjrk1GrbSuw?authuser=3)
 [Parte 14_Preparando nuestra aplicación para producción.](https://terabox.com/s/1OGdkZvQR6tIVhQjwcA7Ynw?authuser=3)
 [Parte 15_Desplegando nuestra aplicación a producción.](https://terabox.com/s/1qYfQT6THlY1cAgPrKWuisA?authuser=3)
@@ -322,7 +322,7 @@ Esta colección reúne archivos, enlaces y herramientas esenciales para aprender
 [Parte 12. Métodos y Clases.](https://terabox.com/s/1n2BqVW1KBWnP7R-3zM_vaA?authuser=3)
 ### Programación en C. ----
 [Parte 1.- Introducción.](https://terabox.com/s/1IDvYQt5vtqcF0cwxDoDf2A?authuser=3)
-[Parte 2.- Expresiones.](https://terabox.com/s/1Uld9rWkMjq8dxOqMkGw3dA?authuser=3
+[Parte 2.- Expresiones.](https://terabox.com/s/1Uld9rWkMjq8dxOqMkGw3dA?authuser=3)
 [Parte 3.- Condicionales.](https://terabox.com/s/1RdrToAGhvcEm9qF1Fb9Eag?authuser=3)
 [Parte 4.- Ciclos.](https://terabox.com/s/1OYPxkfb8FemXMJ6n2k5mVw?authuser=3)
 [Parte 5.- Arreglos.](https://terabox.com/s/1WpFhv6uYMos9xYLe1f-ZCg?authuser=3)
@@ -352,7 +352,7 @@ Esta colección reúne archivos, enlaces y herramientas esenciales para aprender
 [Parte 15. Procedimientos Almacenados.](https://terabox.com/s/1tjp7ECfM36RohwkGIa2AFQ?authuser=3)
 [Parte 16. Triggers.](https://terabox.com/s/1Ax36vB7BEtE_vZqk5P_FkA?authuser=3)
 [Parte 17. Práctica Final.](https://terabox.com/s/12fHDLs6U6nIznFnhfUUn2w?authuser=3)
-[Parte 18. Conexiones.](https://terabox.com/s/1dGvwW7dgbE7U91fquCU0Aw?authuser=3
+[Parte 18. Conexiones.](https://terabox.com/s/1dGvwW7dgbE7U91fquCU0Aw?authuser=3)
 ### Typescrip desde cero ---
 [Parte 1. Introducción.](https://terabox.com/s/14_7415fxyPcg7mz-nQG4Tw?authuser=3)
 [Parte 2. Tipos de datos en Typescript.](https://terabox.com/s/1WXwqEqTnK_-E7UfJX0pAEA?authuser=3)

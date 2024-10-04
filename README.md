@@ -5,11 +5,11 @@ Repositorio de los recursos para los miembros de Sudo
 Esta colección reúne archivos, enlaces y herramientas esenciales para aprender y practicar programación, además de otros temas. La recopilación no es nuestra, pero sí fue hecha por un estudiante de la facultad de Ciencias que nos dio acceso a ella.
 ## Cursos Classroom.
 ### Computación Básica.  ----
-[Parte 1. Conocer tu computadora.](https://terabox.com/s/1_NG2ja8I4FoLZiK3MWAmeQ?authuser=3)
-[Parte 2. Gestionar programas y archivos](https://terabox.com/s/1MInblqgL3m7WHL-OvxzIbA?authuser=3)
-[Parte 3. Manejar herramientas de trabajo online](https://terabox.com/s/1inRNeLgautZ-kD5IEGpB0w?authuser=3)
-[Parte 4. Usar de forma segura tu computadora](https://terabox.com/s/1xvv7Zy74URYgqjjIinB3Lw?authuser=3)
-[Parte 5. Recomendaciones finales](https://terabox.com/s/1nWtzfftgMMe0s9Ksgeja_Q?authuser=3)
+- [Parte 1. Conocer tu computadora.](https://terabox.com/s/1_NG2ja8I4FoLZiK3MWAmeQ?authuser=3)
+- [Parte 2. Gestionar programas y archivos](https://terabox.com/s/1MInblqgL3m7WHL-OvxzIbA?authuser=3)
++ [Parte 3. Manejar herramientas de trabajo online](https://terabox.com/s/1inRNeLgautZ-kD5IEGpB0w?authuser=3)
++ [Parte 4. Usar de forma segura tu computadora](https://terabox.com/s/1xvv7Zy74URYgqjjIinB3Lw?authuser=3)
++ [Parte 5. Recomendaciones finales](https://terabox.com/s/1nWtzfftgMMe0s9Ksgeja_Q?authuser=3)
 
 ### Algoritmos y pensamiento lógico. ---
 [Parte 1. Introducción a los algoritmos](https://terabox.com/s/1CWxVBBYLoJg5Vd9om9IKMA?authuser=3)

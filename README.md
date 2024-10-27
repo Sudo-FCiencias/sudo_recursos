@@ -121,3 +121,7 @@ Los repos "build your own X" entrarían aqui
 
 <br/>
 No Somos Expertxs. Somos Sudo. 
+
+<p align="center">
+  <img src="https://github.com/Sudo-FCiencias/sudo_recursos/blob/main/images/Sudo_Logo.png?raw=true" width="350" title="Sudo Logo">
+</p>
